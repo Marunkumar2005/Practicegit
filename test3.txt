@@ -1,1 +1,2 @@
-this is third file in practicing
+c=a+b;
+this will give the output of a+b in this file
